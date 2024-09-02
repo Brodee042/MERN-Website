@@ -1,5 +1,6 @@
 This website was made in large part to the help of the CS271 professors and TA's, and for that I thank them.
 
+
 Overall, this website is one that utilizes the MERN stack, and it features various pages as are described below:
 
   - Home Page: Overview of the portfolio with navigation links to different sections.
