@@ -3,13 +3,13 @@ This website was made in large part to the help of the CS271 professors and TA's
 Overall, this website is one that utilizes the MERN stack, and it features various pages as are described below:
 
 
-  Home Page: Overview of the portfolio with navigation links to different sections.
+  - Home Page: Overview of the portfolio with navigation links to different sections.
   
-  Topics Page: This webpage is basically is notes on all thing's MERN, made with the intention to show my knowledge on the subject.
+  - Topics Page: This webpage is basically is notes on all thing's MERN, made with the intention to show my knowledge on the subject.
   
-  Gallery Page: Shows pictures of the projects and experiences that I am proud of.
+  - Gallery Page: Shows pictures of the projects and experiences that I am proud of.
   
-  Renovation Management:
+  - Renovation Management:
       Create new renovation projects.
       Read and Display data from SQL table.
       Update existing projects.
