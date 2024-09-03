@@ -16,9 +16,9 @@ This is a MERN stack website designed to showcase my portfolio, manage house ren
 - **Renovation Tracking:** A feature to manage a list of house renovations.
   - **Create, Update, Delete:** Options to add, edit, or remove renovation entries.
   - Renovation Management:
-      Create new renovation projects.
-      Read and Display data from MongoDB (NoSQL) database
-      Update existing projects.
-      Delete projects.
+      - Create new renovation projects.
+      - Read and Display data from MongoDB (NoSQL) database
+      - Update existing projects.
+      - Delete projects.
         
 ![arbonb-screenshot](https://github.com/user-attachments/assets/e226b910-5d97-44ca-b093-34492d6346ca)
