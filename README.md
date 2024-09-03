@@ -1,6 +1,6 @@
 # MERN Website
 
-This is a comprehensive MERN stack website designed to showcase my portfolio, manage house renovations, and provide detailed insights into various web development concepts. The website is built using MongoDB, Express.js, React.js, and Node.js, and is fully responsive and optimized for performance.
+This is a MERN stack website designed to showcase my portfolio, manage house renovations, and provide some web development concepts i've learned as a student. The website is built using MongoDB, Express.js, React.js, and Node.js.
 
 ## Features
 
